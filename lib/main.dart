@@ -98,12 +98,9 @@ class _MyHomePageState extends State<MyHomePage> {
             const Text(
               'You have pushed the button this many times:',
             ),
-            const Text("Git ffgfggfnfgfgnfgn"),
+            const Text("Git "),
             const Text("Git Push and Commit"),
-            const Text("Git pull dngngfnfgnfgfn"),
-            const Text("Git pull dngngfnfgnfgfn"),
-            const Text("Git pull dngngfnfgnfgfn"),
-            const Text("Git pull dngngfnfgnfgfn"),
+            const Text("Git pull"),
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
