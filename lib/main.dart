@@ -98,7 +98,7 @@ class _MyHomePageState extends State<MyHomePage> {
             const Text(
               'You have pushed the button this many times:',
             ),
-            const Text("Git Push"),
+            const Text("Git Push and Commit"),
             const Text("Git pull request"),
             Text(
               '$_counter',
